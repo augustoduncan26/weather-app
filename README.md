@@ -1,4 +1,4 @@
-This is a [Next.js] weather eample
+This is a [Next.js] weather example
 
 Using:
 NextJs, Prisma <PostgreSql>, Weatherapi
